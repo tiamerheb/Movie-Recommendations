@@ -8,6 +8,8 @@ similarities of movies from the ratings given by users to
 the movies they have watched.
 """
 
+
+
 import math
 import csv
 from scipy.stats import pearsonr
